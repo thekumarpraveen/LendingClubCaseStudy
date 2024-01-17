@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> The project aims to derive insights for a loan financing company based on the provided data wherein the organization has to decide on the grant of loan to a consumer.
 
 
 ## Table of Contents
@@ -11,8 +11,7 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
+- The background of the project involves one of the main question ahead 
 - What is the business probem that your project is trying to solve?
 - What is the dataset that is being used?
 
@@ -28,9 +27,10 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- numpy - version 1.26.3
+- pandas - version 2.1.4
+- matplotlib - version 3.8.2
+- seaborn - version 0.13.1
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
