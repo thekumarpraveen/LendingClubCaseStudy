@@ -11,10 +11,9 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- The background of the project involves one of the main question ahead 
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
+- The background of the project involves one of the main question ahead of a financing company whether to sanction loan to a new applicant or not. For this historical data across number of parameter is available.
+- The business problem of identifying credit-worthy and to prevent sanctioning of loan to risky lenders is the main objective of this analysis.
+- The dataset includes the historical loan data across different demographics
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
